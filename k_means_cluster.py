@@ -1,6 +1,6 @@
 
 """ 
-    Skeleton code for k-means clustering mini-project.
+ k-means clustering 
 """
 
 
